@@ -1,0 +1,15 @@
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+*.apk
+*.aab
+*.db
+*.db-wal
+*.db-shm
+shared_prefs/
+app/src/main/assets/*
+!app/src/main/assets/README.txt
+.idea/
+*.iml
