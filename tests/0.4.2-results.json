@@ -1,0 +1,15 @@
+{
+  "empty_query": true,
+  "want_to_six_matches": true,
+  "search_across_all_categories": true,
+  "matching_ids_only": true,
+  "category_preserved": true,
+  "resume_after_restart": true,
+  "next_batch_no_duplicates": true,
+  "last_batch_completion": true,
+  "version": "0.4.2",
+  "search_matcher_cases_passed": 10,
+  "build_and_lint": "passed",
+  "phone_install": "Android 16: update installed; existing preferences and learning database verified unchanged before launch",
+  "content_assets_unchanged": true
+}
